@@ -1,0 +1,12 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Authors of this project
+${licensePrefix}Ahmed Ibrahim Nawar 4092
+${licensePrefix}Amr Adel Ali Ramadan 4257
+${licensePrefix}Ahmed Ibrahim Beltagy 4195
+${licensePrefix}Omar Ali Katary             4115
+${licensePrefix}Each line should be prefixed with ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
